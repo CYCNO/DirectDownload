@@ -74,7 +74,3 @@ class Direct():
             return aDict
         except:
             return "Link is Invalid"
-url = Direct()
-var=url.mediafire("sdrfgg")
-lin = url.anonfiles('https://anonfiles.com/N5C45dE9y5/th_jpeg')
-print(var)
