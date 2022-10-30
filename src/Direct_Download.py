@@ -1,4 +1,3 @@
-from pprint import pprint
 import requests 
 from bs4 import BeautifulSoup
 import webbrowser
@@ -24,7 +23,8 @@ class Direct():
                 webbrowser.open(a) 
                 id = link.split('/', 4)[3]
                 jsondata = requests.get(f'https://api.anonfiles.com/v2/file/{id}/info').json()
-                jsondata['data']['file']['url']['directDownload'] = a
+                jsondata['data']['file']['url']['directDownload'] = a 
+                del jsondata['data']['file']['url']['full']
                 return jsondata
             elif metadata == False and redirect==False:
                 return aDict 
@@ -34,6 +34,10 @@ class Direct():
     def mediafire(self, link, metadata=False, redirect=False):
         try:
             down_link = link
+            mid = link.split('/', 5)
+            if mid[3] == "view":
+                mid[3] = "file"
+                down_link = '/'.join(mid)
             r = requests.get(down_link)
             soup = BeautifulSoup(r.content, "html.parser")
             a_href = soup.find("a", {"class": "input popsok"}).get("href")

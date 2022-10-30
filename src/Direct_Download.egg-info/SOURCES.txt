@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+src/Direct_Download.egg-info/PKG-INFO
+src/Direct_Download.egg-info/SOURCES.txt
+src/Direct_Download.egg-info/dependency_links.txt
+src/Direct_Download.egg-info/requires.txt
+src/Direct_Download.egg-info/top_level.txt
