@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/MADE%20WITH-PYTHON-red?logoColor=red&logo=Python&style=for-the-badge">
 </a>
 <a href="https://pypi.org/project/Direct-Download/">
-<img src="https://img.shields.io/badge/PYPI-V0.1-blue?logo=PyPI&style=for-the-badge">
+<img src="https://img.shields.io/badge/PYPI-V0.4-blue?logo=PyPI&style=for-the-badge">
 </a>
 <a href="https://github.com/CYCNO/DirectDownload/graphs/contributors">
 <img src="https://img.shields.io/github/contributors/cycno/justudy?style=for-the-badge&color=green&logo=GitHub">
@@ -23,7 +23,7 @@
  - Data Is In JSON Format 
  - Redirect link in default browser
  - Switch Between Just Download Link Or ALL Information
- - very Easy To Use
+ - Very Easy To Use
  
  ## Supported Website
 

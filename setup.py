@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
 
 setup(
     name='Direct_Download',
-    version='0.3',
-    description='A Direct Downloader Module Which Will Get Direct Download Link From Some Popular File Uploading Websites',
+    version='0.4',
+    description='A Direct Downloader Module Which Will Get Direct Download Link From Some Popular File Uploading Websites Like Mediafire, Anonfiles',
     author= 'CYCNO',
     url = 'https://github.com/CYCNO/DirectDownload',
     long_description=long_description,
