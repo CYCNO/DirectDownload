@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: Direct-Download
-Version: 0.3
-Summary: A Direct Downloader Module Which Will Get Direct Download Link From Some Popular File Uploading Websites
+Version: 0.4
+Summary: A Direct Downloader Module Which Will Get Direct Download Link From Some Popular File Uploading Websites Like Mediafire, Anonfiles
 Home-page: https://github.com/CYCNO/DirectDownload
 Author: CYCNO
 License: UNKNOWN
@@ -23,7 +23,7 @@ License-File: LICENSE
 <img src="https://img.shields.io/badge/MADE%20WITH-PYTHON-red?logoColor=red&logo=Python&style=for-the-badge">
 </a>
 <a href="https://pypi.org/project/Direct-Download/">
-<img src="https://img.shields.io/badge/PYPI-V0.1-blue?logo=PyPI&style=for-the-badge">
+<img src="https://img.shields.io/badge/PYPI-V0.4-blue?logo=PyPI&style=for-the-badge">
 </a>
 <a href="https://github.com/CYCNO/DirectDownload/graphs/contributors">
 <img src="https://img.shields.io/github/contributors/cycno/justudy?style=for-the-badge&color=green&logo=GitHub">
@@ -39,7 +39,7 @@ License-File: LICENSE
  - Data Is In JSON Format 
  - Redirect link in default browser
  - Switch Between Just Download Link Or ALL Information
- - very Easy To Use
+ - Very Easy To Use
  
  ## Supported Website
 
