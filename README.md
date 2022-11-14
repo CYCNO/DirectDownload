@@ -101,4 +101,4 @@ url.mediafire('https://www.mediafire.com/file/n2kcs3n9nd88vnr/picture.jpeg/file'
 ## Contributors
 - [@CYCNO](https://github.com/CYCNO)
 
-Contributorsare always welcome!
+Contributors are always welcome!
