@@ -1,3 +1,5 @@
+> this is one of the first useful thing i created lol, but i am archiving this since lot of providers are down but if you want the code that do this, check out the [official repo](https://github.com/CYCNO/Direct-Download-API) , here you will find the real code
+
 <div align="center">
 <h1 align="center">Direct Download</h1>
 <strong><i>A simple yet powerful tool for getting direct download link.</i></strong>
